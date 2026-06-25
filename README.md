@@ -1,3 +1,16 @@
+```text
+covid-analysis-project/
+│
+├── covid_analysis.ipynb
+├── covid.csv
+├── covid_grouped.csv
+├── README.md
+└── screenshots/
+    ├── top_cases.png
+    ├── top_deaths.png
+    └── continent_analysis.png
+```
+
 # COVID-19 Data Analysis Project
 
 ## Project Overview
